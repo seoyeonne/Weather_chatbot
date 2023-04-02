@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+  <style>
+  df-messenger {
+   --df-messenger-bot-message: #878fac;
+   --df-messenger-button-titlebar-color: #df9b56;
+   --df-messenger-chat-background-color: #fafafa;
+   --df-messenger-font-color: white;
+   --df-messenger-send-icon: #878fac;
+   --df-messenger-user-message: #479b3d;
+  }
+</style>
+<body>
+  
+  <script src="script.js"></script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+
+  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="날씨알리미"
+  agent-id="caa860dc-851c-423a-b932-654eff12cc14"
+  language-code="ko"
+></df-messenger>
+   <h1>
+    == 챗봇 기능 ==
+  </h1>
+  <p>1) 더하기 </p>
+  <p>2) 곱하기 </p> 
+  <p>3) 원하는 지역의 날씨 조회  </p>
+  <p>4) 일주일 날씨  </p>
+  <p>5) 놀거리 추천  </p>
+  <p>5) 공휴일 </p>
+  </p>
+</body>
+
+</html>
