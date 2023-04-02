@@ -30,7 +30,7 @@
 
 ---
 * 실제 챗봇과 대화하는 
-<img src="https://user-images.githubusercontent.com/80025812/229332549-ca303426-7332-43f5-8f9c-59832281fe6f.png" width="300" height="600"/><img src="https://user-images.githubusercontent.com/80025812/229332564-3fb7ccd8-4fe1-4273-af6a-0813bb484ada.png" width="300" height="600"/><img src="https://user-images.githubusercontent.com/80025812/229332589-4bbfe4dd-fd8d-41b3-bd3d-bb6109b4f970.png" width="300" height="600"/>
+<img src="https://user-images.githubusercontent.com/80025812/229332549-ca303426-7332-43f5-8f9c-59832281fe6f.png" width="270" height="650"/><img src="https://user-images.githubusercontent.com/80025812/229332564-3fb7ccd8-4fe1-4273-af6a-0813bb484ada.png" width="270" height="650"/><img src="https://user-images.githubusercontent.com/80025812/229332589-4bbfe4dd-fd8d-41b3-bd3d-bb6109b4f970.png" width="270" height="650"/>
 
 <br>
 
