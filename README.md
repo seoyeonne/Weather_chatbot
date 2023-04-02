@@ -29,8 +29,8 @@
 ### 구현내용
 
 1) Dialogflow에서 인텐트 작성
-<img src="https://user-images.githubusercontent.com/80025812/229332220-3f47d6f9-0749-40ac-8c34-b130af85091e.png" width="200" height="400"/>
-![스크린샷 2023-03-31 오후 2 48 49](https://user-images.githubusercontent.com/80025812/229332220-3f47d6f9-0749-40ac-8c34-b130af85091e.png)
+<img src="https://user-images.githubusercontent.com/80025812/229332220-3f47d6f9-0749-40ac-8c34-b130af85091e.png" width="400" height="400"/>
+
 
 * Open CV 활용
 * 차선 및 소실점 계산
