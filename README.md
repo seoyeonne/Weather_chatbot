@@ -31,7 +31,7 @@
 ---
 ### 실제 챗봇과 대화하는 예
 
-<img src="https://user-images.githubusercontent.com/80025812/229332549-ca303426-7332-43f5-8f9c-59832281fe6f.png" width="270" height="650"/><img src="https://user-images.githubusercontent.com/80025812/229332564-3fb7ccd8-4fe1-4273-af6a-0813bb484ada.png" width="270" height="650"/><img src="https://user-images.githubusercontent.com/80025812/229332589-4bbfe4dd-fd8d-41b3-bd3d-bb6109b4f970.png" width="270" height="650"/><img src="https://user-images.githubusercontent.com/80025812/229332688-e3b4f08b-aea6-48f8-b21e-d59ecb0072c4.png" width="270" height="650"/>
+<img src="https://user-images.githubusercontent.com/80025812/229332549-ca303426-7332-43f5-8f9c-59832281fe6f.png" width="250" height="650"/><img src="https://user-images.githubusercontent.com/80025812/229332564-3fb7ccd8-4fe1-4273-af6a-0813bb484ada.png" width="250" height="650"/><img src="https://user-images.githubusercontent.com/80025812/229332589-4bbfe4dd-fd8d-41b3-bd3d-bb6109b4f970.png" width="250" height="650"/><img src="https://user-images.githubusercontent.com/80025812/229332688-e3b4f08b-aea6-48f8-b21e-d59ecb0072c4.png" width="250" height="650"/>
 
 <br>
 
