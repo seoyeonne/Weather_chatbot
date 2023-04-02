@@ -11,10 +11,8 @@
 <br>
 
 ### 도구
-
 * Dialogflow
 * replit
-
 <br>
 
 ### 기능
@@ -28,7 +26,7 @@
 
 ### 구현내용
 
-1) Dialogflow에서 인텐트 작성
+1) Dialogflow에서 엔터티 작성
 <img src="https://user-images.githubusercontent.com/80025812/229332220-3f47d6f9-0749-40ac-8c34-b130af85091e.png" width="400" height="400"/>
 
 
