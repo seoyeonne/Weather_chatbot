@@ -15,6 +15,7 @@
 
 * Dialogflow
 * replit
+* python
 
 <br>
 
