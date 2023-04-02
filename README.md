@@ -1,14 +1,14 @@
 # Weather_chatbot
-## 날씨를 알려주는 챗봇 서비스
-<br/><br/><br/>
 
+## 날씨를 알려주는 챗봇 서비스
+<br/>
 ### 소개
-###### 빠르게 날씨, 놀거리 등의 정보를 얻을 수 있는 챗봇 서비스
+빠르게 날씨, 놀거리 등의 정보를 얻을 수 있는 챗봇 서비스
 ### 도구
 - Diglowflow & replit 
 <br/> 
 ### 구현 설명
--Dialogfloㅈ
+-Dialogflow
 (1) 엔터티 작성
 <img src="[이미지URL](https://user-images.githubusercontent.com/80025812/229331057-a35ca62e-0ffd-4752-bfc9-7a4251c36738.png)">
 
