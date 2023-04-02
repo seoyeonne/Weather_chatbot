@@ -29,7 +29,7 @@
 ### 구현내용
 
 1) Dialogflow에서 엔터티 작성                                 
-<img src="https://user-images.githubusercontent.com/80025812/229332399-947e6675-8acb-448a-ad40-d93942df1bea.png" width="400" height="300"/><img src="https://user-images.githubusercontent.com/80025812/229332220-3f47d6f9-0749-40ac-8c34-b130af85091e.png" width="400" height="300"/>
+<img src="https://user-images.githubusercontent.com/80025812/229332399-947e6675-8acb-448a-ad40-d93942df1bea.png" width="500" height="300"/><img src="https://user-images.githubusercontent.com/80025812/229332220-3f47d6f9-0749-40ac-8c34-b130af85091e.png" width="500" height="300"/>
 
 <br>
 
