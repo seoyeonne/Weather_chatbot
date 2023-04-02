@@ -1,0 +1,9 @@
+{
+  "id": "5f0940aa-ac3d-4696-b502-3d62b808e7b6",
+  "name": "city",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

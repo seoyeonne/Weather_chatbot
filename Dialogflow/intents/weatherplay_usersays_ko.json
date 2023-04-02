@@ -1,0 +1,191 @@
+[
+  {
+    "id": "9787aef6-6124-4d45-833a-58fe9acee0ae",
+    "data": [
+      {
+        "text": "놀거리",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "67f79d1b-5151-4637-8902-8ebafae60817",
+    "data": [
+      {
+        "text": "오늘",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐할지 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1a689540-5812-4955-9d7f-8a21384c1d94",
+    "data": [
+      {
+        "text": "오늘",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐할까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a7ec545f-3dc8-4ab8-bf84-9e0a8ac82e65",
+    "data": [
+      {
+        "text": "비오는날",
+        "userDefined": true
+      },
+      {
+        "text": " 뭐",
+        "userDefined": false
+      },
+      {
+        "text": "하지",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "36680590-2124-4709-9394-f369b0b79876",
+    "data": [
+      {
+        "text": "맑은",
+        "userDefined": false
+      },
+      {
+        "text": "날 뭐",
+        "userDefined": false
+      },
+      {
+        "text": "하지",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a4869a4b-9c34-4f70-a987-9ecbde4eff0c",
+    "data": [
+      {
+        "text": "비오는날 ",
+        "userDefined": false
+      },
+      {
+        "text": "놀거리",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9fe3948c-2fb8-4ad7-b79a-004dffc93d51",
+    "data": [
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "맑은",
+        "userDefined": false
+      },
+      {
+        "text": "날 ",
+        "userDefined": false
+      },
+      {
+        "text": "놀거리",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "9110ca2a-9766-466a-99d3-7e1039a52c49",
+    "data": [
+      {
+        "text": "3월",
+        "meta": "@month",
+        "alias": "month",
+        "userDefined": false
+      },
+      {
+        "text": "공휴일",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "08ff34a8-899d-41f8-b96d-615e45fb03ca",
+    "data": [
+      {
+        "text": "1월",
+        "meta": "@month",
+        "alias": "month",
+        "userDefined": false
+      },
+      {
+        "text": " 공휴일 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "dcd6370b-528d-4c67-a870-e0143a173a89",
+    "data": [
+      {
+        "text": "쉬는날 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9362ae60-73e9-4a87-8796-6ff918a950a7",
+    "data": [
+      {
+        "text": "공휴일 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9faf6afe-30e6-4139-959f-725c4f4bd1fc",
+    "data": [
+      {
+        "text": "공휴일",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "id": "6b44a4f1-1f3f-495f-b5ff-b6bcd471026b",
+  "name": "getWeather",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.Weather",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e72a03a3-ed70-4c5c-a6e9-3cf25f64ee4f",
+          "name": "city",
+          "required": true,
+          "dataType": "@city",
+          "value": "$city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "ko",
+              "value": "어느 지역 날씨 궁금한가요?"
+            },
+            {
+              "lang": "ko",
+              "value": "지역명을 알려주세요!"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7f1ff2a8-a667-4fbc-9837-2b3b05bb1034",
+          "name": "when",
+          "required": true,
+          "dataType": "@when",
+          "value": "$when",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "ko",
+              "value": "언제 날씨가 궁금한가요?"
+            },
+            {
+              "lang": "ko",
+              "value": "오늘날씨? 내일날씨? 선택해주세요."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6e86bf6f-b076-459a-9c1f-a66d789f9ef3",
+          "name": "weather",
+          "required": false,
+          "dataType": "@weather",
+          "value": "$weather",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "오늘 날씨는 좋아요!",
+            "$when $city의 날씨는 좋습니다!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

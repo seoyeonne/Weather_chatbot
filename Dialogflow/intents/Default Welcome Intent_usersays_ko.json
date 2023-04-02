@@ -1,0 +1,28 @@
+[
+  {
+    "id": "fe868d7d-c405-45a9-839a-2067ba972957",
+    "data": [
+      {
+        "text": "안녕하세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2554932f-9b8b-4dcb-b0d5-85acd5639e3a",
+    "data": [
+      {
+        "text": "안녕",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

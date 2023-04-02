@@ -1,0 +1,52 @@
+{
+  "id": "09afc283-65f1-4318-8d83-70db294eac69",
+  "name": "Holiday",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get.Holiday",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0ea93ac1-14fa-4c92-8e5c-7a03cd59caa3",
+          "name": "month",
+          "required": true,
+          "dataType": "@month",
+          "value": "$month",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "ko",
+              "value": "몇월 공휴일 알려드릴까요?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

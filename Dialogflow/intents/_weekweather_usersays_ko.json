@@ -1,0 +1,113 @@
+[
+  {
+    "id": "35b412bc-e23c-4639-948a-219269164b58",
+    "data": [
+      {
+        "text": "이번주",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      },
+      {
+        "text": "알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4c488bea-3878-4778-b648-fa737efc6094",
+    "data": [
+      {
+        "text": "이번주",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f0fe8e36-e037-494f-9a5d-8ded3466cb9a",
+    "data": [
+      {
+        "text": "일주일",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b298cb20-8a24-4a89-9533-090ad23c0dfa",
+    "data": [
+      {
+        "text": "일주일",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      },
+      {
+        "text": "알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5a3cdfeb-f930-4496-92ce-2fb16270c5fb",
+    "data": [
+      {
+        "text": "일주일",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "description": "",
+  "language": "ko",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "날씨알리미",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Tokyo",
+  "webhook": {
+    "url": "https://ChatBotWebhookChris.cindyand1q2.repl.co/webhook",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "f0a98ca5314a47a693535d3c2319a4ee",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

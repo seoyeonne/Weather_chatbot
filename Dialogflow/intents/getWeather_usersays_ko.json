@@ -1,0 +1,252 @@
+[
+  {
+    "id": "3a3dbd92-45e4-482a-b8d5-97845ceeae5a",
+    "data": [
+      {
+        "text": "내일",
+        "meta": "@when",
+        "alias": "when",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "서울",
+        "meta": "@city",
+        "alias": "city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d42a411e-80f4-4f6f-bbc6-18fe92c3fd5a",
+    "data": [
+      {
+        "text": "내일",
+        "meta": "@when",
+        "alias": "when",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      },
+      {
+        "text": "알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ee99979f-fc77-4473-811e-b461ec102541",
+    "data": [
+      {
+        "text": "내일",
+        "meta": "@when",
+        "alias": "when",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c2c2dd1c-1ff0-4e2a-af92-d280a234c20b",
+    "data": [
+      {
+        "text": "오늘",
+        "meta": "@when",
+        "alias": "when",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "926524c6-356d-48a8-b973-f0555ff71dde",
+    "data": [
+      {
+        "text": "오늘",
+        "meta": "@when",
+        "alias": "when",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "비",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      },
+      {
+        "text": "와?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f8035bed-7b7a-476b-a9b3-9c6febee12b9",
+    "data": [
+      {
+        "text": "서울",
+        "meta": "@city",
+        "alias": "city",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      },
+      {
+        "text": "알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1822a9f8-121e-41df-b9f6-69fb89e80efc",
+    "data": [
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      },
+      {
+        "text": " 어때?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2c897a5c-04e6-49ce-8519-be8a9ff8a33e",
+    "data": [
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      },
+      {
+        "text": " 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8c2c4fcc-2ade-4ef3-a9bb-eb27a7d17279",
+    "data": [
+      {
+        "text": "오늘",
+        "meta": "@when",
+        "alias": "when",
+        "userDefined": false
+      },
+      {
+        "text": " 더워?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7ae01461-607d-4bda-b877-c31bec773f5c",
+    "data": [
+      {
+        "text": "오늘",
+        "meta": "@when",
+        "alias": "when",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "날씨",
+        "meta": "@weather",
+        "alias": "weather",
+        "userDefined": false
+      },
+      {
+        "text": " 어때?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

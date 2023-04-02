@@ -1,0 +1,9 @@
+{
+  "id": "8539fc32-dde9-47b2-b83d-c97de6ed776a",
+  "name": "when",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
