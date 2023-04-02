@@ -13,7 +13,8 @@
 ### 구현 설명
 -Dialogfloㅈ
 (1) 엔터티 작성
-(![스크린샷 2023-03-31 오후 2 48 49](https://user-images.githubusercontent.com/80025812/229331057-a35ca62e-0ffd-4752-bfc9-7a4251c36738.png))
+<img src="[이미지URL](https://user-images.githubusercontent.com/80025812/229331057-a35ca62e-0ffd-4752-bfc9-7a4251c36738.png)">
+
 
 <br/> 
 
